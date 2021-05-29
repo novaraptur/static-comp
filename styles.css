@@ -21,3 +21,10 @@ nav {
   padding: 0.5%;
   width: 200px;
 }
+
+.nav-button:hover {
+  background-color: #FFFFFF;
+  color: #3D9970;
+  transform: scale(1.1);
+  transition-duration: 0.5s;
+}
