@@ -28,3 +28,28 @@ nav {
   transform: scale(1.1);
   transition-duration: 0.5s;
 }
+
+h1 {
+  font-size: 3em;
+  font-weight: lighter;
+}
+
+.intro-banner {
+  display: flex;
+  justify-content: center;
+  margin: 2%;
+}
+
+.card-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.plant-card {
+  width: 30%;
+}
+
+.card-img {
+  width: 100%;
+}
