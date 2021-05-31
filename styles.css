@@ -39,7 +39,9 @@ h1 {
 }
 
 .intro-banner {
+  align-items: center;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   margin: 2%;
 }
