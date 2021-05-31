@@ -22,9 +22,9 @@ to install ExpressJS as a dependency.
 
 ### Future Extensions
 
--[] Replacing images with own pictures to standardize image sizes
--[] Making a functional MVP-- allow user to click on cards to view information about each type of plant
--[] Search functionality -- allow user to search by type of plant (low light, etc.) or name of plant
--[] User functionality-- allow users to sign in, save plants to "my plants" section, etc.
--[] More Node & Express practice
--[] More content-- add more plant cards for different varieties of plants
+- [ ] Replacing images with own pictures to standardize image sizes
+- [ ] Making a functional MVP-- allow user to click on cards to view information about each type of plant
+- [ ] Search functionality -- allow user to search by type of plant (low light, etc.) or name of plant
+- [ ] User functionality-- allow users to sign in, save plants to "my plants" section, etc.
+- [ ] More Node & Express practice
+- [ ] More content-- add more plant cards for different varieties of plants
